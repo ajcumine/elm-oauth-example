@@ -1,0 +1,10 @@
+{
+  "name": "elm-oauth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ajcumine <ajcumine@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
